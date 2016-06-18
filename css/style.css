@@ -226,11 +226,6 @@
 				display: block;
 				width: 100%;
 			}
-
-			.image.fit.portrait
-			{
-				content:url("../images/portrait.jpg");
-			}
 			
 			.image.featured
 			{
@@ -678,3 +673,65 @@
 		{
 			color: #777;
 		}
+
+/*********************************************************************************/
+/* Pictures                                                                     */
+/*********************************************************************************/
+
+
+	.image.fit.portrait
+	{
+		content:url("../images/portrait.jpg");
+	}
+
+	.picture
+	{
+		display: block;
+		width: 100%;
+		border: 0;
+	}
+
+	.picture.pic01
+	{
+		content:url("../images/pic01.jpg");
+	}
+
+	.picture.pic02
+	{
+		content:url("../images/pic02.jpg");
+	}
+
+	.picture.pic03
+	{
+		content:url("../images/pic03.jpg");
+	}
+
+	.picture.pic04
+	{
+		content:url("../images/pic04.jpg");
+	}
+
+	.picture.pic05
+	{
+		content:url("../images/pic05.jpg");
+	}
+
+	.picture.pic06
+	{
+		content:url("../images/pic06.jpg");
+	}
+
+	.picture.pic07
+	{
+		content:url("../images/pic07.jpg");
+	}
+
+	.picture.pic08
+	{
+		content:url("../images/pic08.jpg");
+	}
+
+	.picture.pic09
+	{
+		content:url("../images/pic09.jpg");
+	}
