@@ -226,6 +226,11 @@
 				display: block;
 				width: 100%;
 			}
+
+			.image.fit.portrait
+			{
+				content:url("../images/portrait.jpg");
+			}
 			
 			.image.featured
 			{
